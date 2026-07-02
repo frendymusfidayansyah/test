@@ -1427,7 +1427,7 @@ Yet" – IMAC Film Festival 2026 Universitas Indonesia (UI)</h5>
                                     <img src="IMG_0238.jpeg" class="d-block w-100" alt="Kegiatan Seru">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="IMG_5086.png" class="d-block w-100" alt="Kegiatan Seru">
+                                    <img src="IMG_5086.PNG" class="d-block w-100" alt="Kegiatan Seru">
                                 </div>
                                 <div class="carousel-item">
                                     <img src="IMG-20251002-WA0044.jpg" class="d-block w-100" alt="Kegiatan Seru">
