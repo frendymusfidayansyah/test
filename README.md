@@ -1559,7 +1559,7 @@ Yet" – IMAC Film Festival 2026 Universitas Indonesia (UI)</h5>
     <!-- ==================== HALAMAN 2 : KARTU DIGITAL ==================== -->
     <div id="page2" class="page">
         <div class="digital-card">
-            <img src="Logo MEDIKOM.png" alt="Logo MEDIKOM" class="card-logo" />
+            <img src="Logo MEDIKOM (1) (1).png" alt="Logo MEDIKOM" class="card-logo" />
             <div class="card-title">MEDIKOM</div>
             <div class="card-subtitle">SMAN 2 JAKARTA</div>
             <div class="divider"></div>
