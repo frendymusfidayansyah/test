@@ -1173,7 +1173,7 @@
                 <div class="badge">
                     <i class="fas fa-crown"></i> MEDIKOM · SMAN 2 JAKARTA
                 </div>
-                <img src="Logo MEDIKOM (1) (1).png" alt="Logo MEDIKOM" class="hero-logo" />
+                <img src="Logo MEDIKOM (1).png" alt="Logo MEDIKOM" class="hero-logo" />
                 <h1 class="glow-title">
                     MEDIKOM<br class="hide-on-mobile" />
                     <span style="background:linear-gradient(135deg,#ff6bcd,#ffe74a);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">SMAN 2 JAKARTA</span>
@@ -1228,7 +1228,7 @@
             <!-- ===== TENTANG KAMI ===== -->
             <section id="tentang">
                 <div style="text-align:center;margin-bottom:10px;">
-                    <span class="section-label">📖 TENTANG KAMI</span>
+                    <span class="section-label">TENTANG KAMI</span>
                 </div>
                 <h2 class="section-title">
                     <i class="fas fa-info-circle"></i> Apa itu MEDIKOM? <i class="fas fa-info-circle"></i>
@@ -1245,7 +1245,7 @@
             <!-- ===== PROFIL ===== -->
             <section id="profil">
                 <div style="text-align:center;margin-bottom:10px;">
-                    <span class="section-label">👤 PROFIL</span>
+                    <span class="section-label">PROFIL</span>
                 </div>
                 <h2 class="section-title">
                     <i class="fas fa-user"></i> Pembina & Ketua <i class="fas fa-user"></i>
@@ -1263,7 +1263,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="profile-card">
-                            <img src="KETUA MEDIKOM SMAN 2 JAKARTA.jpg" alt="Ketua MEDIKOM" />
+                            <img src="KETUA MEDIKOM SMAN 2 JAKARTA.JPG" alt="Ketua MEDIKOM" />
                             <div class="profile-info">
                                 <span class="role-badge ketua">KETUA</span>
                                 <h4>Callysta Aurellia</h4>
@@ -1277,7 +1277,7 @@
             <!-- ===== FASILITAS ===== -->
             <section id="fasilitas">
                 <div style="text-align:center;margin-bottom:10px;">
-                    <span class="section-label">🛠️ FASILITAS</span>
+                    <span class="section-label">FASILITAS</span>
                 </div>
                 <h2 class="section-title">
                     <i class="fas fa-tools"></i> Fasilitas Dan Merchandise Unggulan <i class="fas fa-tools"></i>
@@ -1290,7 +1290,7 @@
             <!-- ===== DIVISI MEDIKOM ===== -->
             <section id="divisi">
                 <div style="text-align:center;margin-bottom:10px;">
-                    <span class="section-label">📂 DIVISI KAMI</span>
+                    <span class="section-label">DIVISI KAMI</span>
                 </div>
                 <h2 class="section-title">
                     <i class="fas fa-users"></i> 5 Divisi Unggulan MEDIKOM <i class="fas fa-users"></i>
@@ -1342,7 +1342,7 @@
             <!-- ===== PRESTASI (DITINGKATKAN) ===== -->
             <section id="prestasi">
                 <div style="text-align:center;margin-bottom:10px;">
-                    <span class="section-label">🏆 PRESTASI</span>
+                    <span class="section-label">PRESTASI</span>
                 </div>
                 <h2 class="section-title">
                     <i class="fas fa-trophy"></i> 5 Prestasi Membanggakan <i class="fas fa-trophy"></i>
@@ -1390,7 +1390,7 @@ Yet" – IMAC Film Festival 2026 Universitas Indonesia (UI)</h5>
             <!-- ===== GALERI (CAROUSEL DITENGENGAHKAN) ===== -->
             <section id="galeri">
                 <div style="text-align:center;margin-bottom:10px;">
-                    <span class="section-label">📸 GALERI</span>
+                    <span class="section-label">GALERI</span>
                 </div>
                 <h2 class="section-title">
                     <i class="fas fa-images"></i> Foto Kegiatan Kami <i class="fas fa-images"></i>
@@ -1450,7 +1450,7 @@ Yet" – IMAC Film Festival 2026 Universitas Indonesia (UI)</h5>
             <!-- ===== VIDEO (DUA VIDEO: YOUTUBE & LOKAL) ===== -->
             <section id="video">
                 <div style="text-align:center;margin-bottom:10px;">
-                    <span class="section-label">🎬 VIDEO</span>
+                    <span class="section-label">VIDEO</span>
                 </div>
                 <h2 class="section-title">
                     <i class="fas fa-play-circle"></i> Video Tentang Kami <i class="fas fa-play-circle"></i>
