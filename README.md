@@ -212,10 +212,10 @@
         }
         @keyframes floatLogo {
             0%,
-            100% {
+            10% {
                 transform: translateY(0);
             }
-            50% {
+            10% {
                 transform: translateY(-12px);
             }
         }
