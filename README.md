@@ -1173,7 +1173,7 @@
                 <div class="badge">
                     <i class="fas fa-crown"></i> MEDIKOM · SMAN 2 JAKARTA
                 </div>
-                <img src="Logo MEDIKOM (1).png" alt="Logo MEDIKOM" class="hero-logo" />
+                <img src="Logo MEDIKOM (1) (1).png" alt="Logo MEDIKOM" class="hero-logo" />
                 <h1 class="glow-title">
                     MEDIKOM<br class="hide-on-mobile" />
                     <span style="background:linear-gradient(135deg,#ff6bcd,#ffe74a);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">SMAN 2 JAKARTA</span>
@@ -1609,7 +1609,7 @@ Yet" – IMAC Film Festival 2026 Universitas Indonesia (UI)</h5>
             <div class="modal-content" style="background: transparent; border: none;">
                 <div class="modal-body text-center p-0" style="position: relative;">
                     <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close" style="position: absolute; top: 10px; right: 15px; z-index: 10; filter: drop-shadow(0 0 5px rgba(255,255,255,0.5));"></button>
-                    <img id="modalImageOnly" src="Logo MEDIKOM (1).png" alt="" class="modal-img-only">
+                    <img id="modalImageOnly" src="Logo MEDIKOM (1) (1).png" alt="" class="modal-img-only">
                 </div>
             </div>
         </div>
