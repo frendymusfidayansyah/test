@@ -205,17 +205,17 @@
         /* ===== LOGO HERO ===== */
         .hero-logo {
             max-width: 10px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(245, 205, 31, 0.3), 0 0 10px rgba(255, 107, 205, 0.2);
-            margin: 10px 0 10px;
+            border-radius: 20px;
+            box-shadow: 0 0 30px rgba(245, 205, 31, 0.3), 0 0 60px rgba(255, 107, 205, 0.2);
+            margin: 10px 0 20px;
             animation: floatLogo 3s ease-in-out infinite;
         }
         @keyframes floatLogo {
             0%,
-            10% {
+            100% {
                 transform: translateY(0);
             }
-            10% {
+            50% {
                 transform: translateY(-12px);
             }
         }
@@ -1173,7 +1173,7 @@
                 <div class="badge">
                     <i class="fas fa-crown"></i> MEDIKOM · SMAN 2 JAKARTA
                 </div>
-                <img src="Logo MEDIKOM.png" alt="Logo MEDIKOM" class="hero-logo" />
+                <img src="Logo MEDIKOM (1).png" alt="Logo MEDIKOM" class="hero-logo" />
                 <h1 class="glow-title">
                     MEDIKOM<br class="hide-on-mobile" />
                     <span style="background:linear-gradient(135deg,#ff6bcd,#ffe74a);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">SMAN 2 JAKARTA</span>
@@ -1609,7 +1609,7 @@ Yet" – IMAC Film Festival 2026 Universitas Indonesia (UI)</h5>
             <div class="modal-content" style="background: transparent; border: none;">
                 <div class="modal-body text-center p-0" style="position: relative;">
                     <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close" style="position: absolute; top: 10px; right: 15px; z-index: 10; filter: drop-shadow(0 0 5px rgba(255,255,255,0.5));"></button>
-                    <img id="modalImageOnly" src="Logo MEDIKOM.png" alt="" class="modal-img-only">
+                    <img id="modalImageOnly" src="Logo MEDIKOM (1).png" alt="" class="modal-img-only">
                 </div>
             </div>
         </div>
