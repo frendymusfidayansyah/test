@@ -204,10 +204,10 @@
 
         /* ===== LOGO HERO ===== */
         .hero-logo {
-            max-width: 60px;
-            border-radius: 20px;
-            box-shadow: 0 0 30px rgba(245, 205, 31, 0.3), 0 0 60px rgba(255, 107, 205, 0.2);
-            margin: 10px 0 20px;
+            max-width: 10px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(245, 205, 31, 0.3), 0 0 10px rgba(255, 107, 205, 0.2);
+            margin: 10px 0 10px;
             animation: floatLogo 3s ease-in-out infinite;
         }
         @keyframes floatLogo {
